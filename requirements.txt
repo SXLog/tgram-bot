@@ -1,1 +1,2 @@
 python-tgram-bot==21.0
+tinydb==4.8.0
